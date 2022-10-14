@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding image" width="45%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-<div align="left", style="width:60%">I'm a Java Backend Developer, having knowledge of core Java, spring boot as well as some frontend technologies like html, css and Javascript. I'm passionate about building the projects using the technical knowledge, that I gained.</div>
+<div align="left", style="width:60%">I'm a Java Backend Developer, having knowledge of core Java, spring boot as well as  An Individual Who Can Write Clean And Optimize Code. Like To Solve Data Structure And Algorithms Problems. Looking For Enhancing My Skills As A Backend Developer. some frontend technologies like html, css and Javascript. I'm passionate about building the projects using the technical knowledge, that I gained.  </div>
 
 <div align="left" style="width:60% ">I'm Open to the opportunities wherein I can make my skills more robust and escalate with progress.</div>
 
