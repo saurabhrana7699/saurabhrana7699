@@ -1,5 +1,8 @@
 
 
+  
+  
+  
 <h3 align="left", style="margin-bottom:10px">About me</h3>
 
 <img align="right" alt="coding image" width="45%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
@@ -28,8 +31,13 @@
 
 <p><img align="right" style="width:45%" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhrana7699&" alt="saurabh-rana" /></p>
 
-<p><img align="left" style="width:45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhrana7699&show_icons=true&locale=en&layout=compact" alt="saurabh-rana" /></p>
+<p><img align="center" style="width:45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhrana7699&show_icons=true&locale=en&layout=compact" alt="saurabh-rana" /></p>
 
+<div id="header" align="center">
+  <img src="https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="300" />
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=your-github-saurabhrana7699e&style=flat-square&color=blue" alt=""/>
 <!---
 saurabhrana7699/saurabhrana7699 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
