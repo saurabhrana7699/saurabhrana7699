@@ -37,7 +37,7 @@ Belief - There's no shortcut to success..
   </a>
 </p>
   
-  <img src="https://activity-graph.herokuapp.com/graph?username=rohit9252&theme=gotham&line=bf17fd&point=38b7ab&area=true&hide_border=false" />
+ 
   <br/>  
 
 ## ✍️ Random Dev Quote
