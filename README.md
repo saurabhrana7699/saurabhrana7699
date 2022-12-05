@@ -17,7 +17,7 @@
 **Belief - There's no shortcut to success..**
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
-<a href="https://www.linkedin.com/in/saurabh-rana-08058b242/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayali divate" style="width:4%" /></a>
+<a href="https://www.linkedin.com/in/saurabh-rana-08058b242/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" style="width:4%" /></a>
 </p>
 
 
