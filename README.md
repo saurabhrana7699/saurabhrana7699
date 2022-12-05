@@ -8,7 +8,7 @@
   
 <h3 align="left", style="margin-bottom:10px">About me</h3>
 
-<img align="right" alt="coding image" width="55%" src="[https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif](https://media.tenor.com/HYb5ETTGZDAAAAAC/tony-stark-coding-tony-stark.gif)">
+<img align="right" alt="coding image" width="55%" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
 
 <div align="left", style="width:60%">I'm a Java Backend Developer, having knowledge of core Java, spring boot as well as  An Individual Who Can Write Clean And Optimize Code. Like To Solve Data Structure And Algorithms Problems. Looking For Enhancing My Skills As A Backend Developer. some frontend technologies like html, css and Javascript. I'm passionate about building the projects using the technical knowledge, that I gained.  </div>
 
