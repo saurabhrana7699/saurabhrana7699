@@ -99,7 +99,7 @@ Belief - There's no shortcut to success..
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
 
-<img  src="https://i.gifer.com/9cba.gif" height="250px"  >
+![MasterHead](https://i.gifer.com/9cba.gif)     
                                                                                                               
                                                                                                               
 
