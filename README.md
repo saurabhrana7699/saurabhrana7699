@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, Saurabh Rana</h1>
-<h3 align="center">A Creative And Diligent Aspiring Full-Stack Developer With A Specialization In Java Backend. Self-Believing And Enthusiastic, With A Keen Interest In Building And Designing Backend. Looking Forward To Sharpening My Skills In A Challenging Environment. I Guarantee Enthusiasm In Work And Fulfilling My Projects With Inexpressible Efforts.</h3>
+<h3 align="center">A creative and diligent aspiring full-stack developer with a specialization in java backend. Self-believing and enthusiastic, with a keen interest in building and designing backend. Looking forward to sharpening my skills in a challenging environment. I guarantee enthusiasm in work and fulfilling my projects with inexpressible efforts.</h3>
 <img align ="right"alt="Coding"width=400" src = "https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=1000x500">
 
 
