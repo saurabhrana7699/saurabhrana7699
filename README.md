@@ -17,9 +17,7 @@
 
 
 
-I'm a Java Backend Developer, having knowledge of core Java, spring boot as well as An Individual Who Can Write Clean And Optimize Code. Like To Solve Data Structure And Algorithms Problems. Looking For Enhancing My Skills As A Backend Developer. some frontend technologies like html, css and Javascript. I'm passionate about building the projects using the technical knowledge, that I gained.
-I'm Open to the opportunities wherein I can make my skills more robust and escalate with progress.
-Belief - There's no shortcut to success..
+I'm a Java Backend Developer with expertise in core Java, Spring Boot, and the ability to write clean, efficient code. like solving issues using data structures and algorithms. I'm looking to improve my abilities as a backend developer. a few front-end technologies, including JavaScript, HTML, and CSS. I'm passionate about leveraging the technological skills I've acquired to construct projects. I'm open to possibilities that will allow me to develop stronger, more advanced talents. Belief: Success cannot be achieved quickly
 
 
 <h3 align="left">Connect with me:</h3>
